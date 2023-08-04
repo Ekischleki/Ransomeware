@@ -15,7 +15,8 @@ Decryption is offered by the software, but not guaranteed!
 To use this software follow the following steps:
 1. Download any release [here](https://github.com/Ekischleki/Ransomeware/releases); You should include the following files: Ransomware.exe, KeyDecryptor.exe, and Keypair.txt
 2. Drag and drop the Ransomware.exe file into your sandbox of choice (PLEASE RUN IT IN A SANDBOX)
-3. All the other steps are in the executable
+3. All the other steps are in the executable. Oh yeah, and the password is DoItPlease
+
 Additionally, [here is a showcase](https://youtu.be/DtfmyW7FKA4)
 
 
