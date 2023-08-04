@@ -6,7 +6,7 @@ using Virus;
 
 
 
-Console.WriteLine("This program will encrypt cirtain files on your harddrive without there being any guarantee for them to be decrypted. \nSOME DATA MIGHT GET LOST FOREVER!\nIf you don't exactly know what you're doing, then I recomment you to just exit this program and no harm will happen.");
+Console.WriteLine("This program will encrypt cirtain files on your harddrive without there being any guarantee for them to be decrypted. \nSOME DATA MIGHT GET LOST FOREVER!\nIf you don't exactly know what you're doing, then I recommend you to just exit this program and no harm will happen.");
 Console.WriteLine("Type \"Encrypt\" to encrypt your files");
 if (Console.ReadLine() != "Encrypt")
 {
