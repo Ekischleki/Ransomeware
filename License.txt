@@ -1,0 +1,14 @@
+Educational Malware License
+
+(C) Copyright Ekischleki 4th August 2023
+
+This software is licensed under the Educational Malware License. By using this software, you agree to the following terms and conditions:
+
+1. This software is intended for educational purposes only and should not be used for any illegal activities.
+2. Redistribution of this software with malicious intend is strictly prohibited; however, sharing the GitHub download link is allowed.
+3. This software must not be used unless you fully understand its implications and acknowledge that it is capable of causing harm to your computer system.
+4. The primary purpose of this software is to help antivirus developers and security researchers understand and combat malware threats.
+5. The author of this software is not responsible for any damages or losses caused by the use or misuse of this software.
+6. If you choose to fork this repository, please note that any actions taken with the fork are entirely independent of the author and not associated with the author in any way.
+
+By using this software, you agree to these terms and conditions. If you do not agree to these terms and conditions, do not use this software.
